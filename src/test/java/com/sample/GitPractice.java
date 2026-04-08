@@ -29,4 +29,21 @@ public class GitPractice  {
 		System.out.println("F");
 
 	}
+	
+	private void Java() {
+		System.out.println("Java");
+
+	}
+	
+	private void Selenium() {
+		System.out.println("Selenium");
+
+	}
+	
+	private void Cucumber() {
+		System.out.println("Cucumber");
+
+	}
+	
+	
 }
