@@ -16,4 +16,17 @@ public class GitPractice  {
 
 	}
 	
+	private void ClassD() {
+		System.out.println("D");
+
+	}
+
+	private void ClassE() {
+		System.out.println("E");
+	}
+	
+	private void ClassF() {
+		System.out.println("F");
+
+	}
 }
