@@ -16,5 +16,21 @@ public class Sample {
 		System.out.println("three");
 
 	}
+	
+	private void ConflictMethod() {
+	    System.out.println("ConflictMethod");
+	}
+	
+	private void ConflictMethod2() {
+	    System.out.println("ConflictMethod2");
+	}
+	
+	private void ConflictMethod3() {
+	    System.out.println("ConflictMethod3");
+	}
+	
+	private void ConflictMethod4() {
+	    System.out.println("ConflictMethod4");
+	}
 
 }
