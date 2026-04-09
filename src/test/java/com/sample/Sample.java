@@ -17,4 +17,20 @@ public class Sample {
 
 	}
 
+	private void Sunny() {
+		System.out.println("Sunny");
+
+	}
+	
+	private void Chinna() {
+		System.out.println("Chinna");
+
+	}
+	
+	private void Ramsuri() {
+		System.out.println("Ramsuri");
+
+	}
+
+	
 }
